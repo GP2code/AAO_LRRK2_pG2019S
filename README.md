@@ -2,7 +2,7 @@
 
 `🦋 GP2 ❤️ Open Science 😍🦋`
 
-[![DOI](https://zenodo.org/badge/to_be_added_upon_publication.svg)](https://doi.org/to_be_added_upon_publication/zenodo.to_be_added_upon_publication)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15367561.svg)](https://doi.org/10.5281/zenodo.15367561)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Last Updated:** March 2025
